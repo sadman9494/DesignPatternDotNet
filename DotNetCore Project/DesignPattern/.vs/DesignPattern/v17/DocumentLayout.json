@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|e:\\acm\\designpattern\\dotnetcore project\\designpattern\\designpattern\\iservice\\iactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\iservice\\iactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|e:\\acm\\designpattern\\dotnetcore project\\designpattern\\designpattern\\database\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\database\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|e:\\acm\\designpattern\\dotnetcore project\\designpattern\\designpattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|e:\\acm\\designpattern\\dotnetcore project\\designpattern\\designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|e:\\acm\\designpattern\\dotnetcore project\\designpattern\\designpattern\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|e:\\acm\\designpattern\\dotnetcore project\\designpattern\\designpattern\\service\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\service\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|e:\\acm\\designpattern\\dotnetcore project\\designpattern\\designpattern\\model\\follower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\model\\follower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|e:\\acm\\designpattern\\dotnetcore project\\designpattern\\designpattern\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B172D17-DC13-4817-BE89-8AAF908A32A2}|DesignPattern\\DesignPattern.csproj|solutionrelative:designpattern\\model\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\appsettings.json",
+              "RelativeDocumentMoniker": "DesignPattern\\appsettings.json",
+              "ToolTip": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\appsettings.json",
+              "RelativeToolTip": "DesignPattern\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T12:06:27.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\Program.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Program.cs",
+              "ToolTip": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\Program.cs",
+              "RelativeToolTip": "DesignPattern\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T10:01:09.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActivityService.cs",
+              "DocumentMoniker": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\service\\ActivityService.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\service\\ActivityService.cs",
+              "ToolTip": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\service\\ActivityService.cs",
+              "RelativeToolTip": "DesignPattern\\service\\ActivityService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwC8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:23:03.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\Model\\UserDto.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Model\\UserDto.cs",
+              "ToolTip": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\Model\\UserDto.cs",
+              "RelativeToolTip": "DesignPattern\\Model\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:22:07.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IActivity.cs",
+              "DocumentMoniker": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\IService\\IActivity.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\IService\\IActivity.cs",
+              "ToolTip": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\IService\\IActivity.cs",
+              "RelativeToolTip": "DesignPattern\\IService\\IActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:19:37.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActivityController.cs",
+              "DocumentMoniker": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\Controllers\\ActivityController.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Controllers\\ActivityController.cs",
+              "ToolTip": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\Controllers\\ActivityController.cs",
+              "RelativeToolTip": "DesignPattern\\Controllers\\ActivityController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:19:08.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Follower.cs",
+              "DocumentMoniker": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\Model\\Follower.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Model\\Follower.cs",
+              "ToolTip": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\Model\\Follower.cs",
+              "RelativeToolTip": "DesignPattern\\Model\\Follower.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T07:02:49.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "db.cs",
+              "DocumentMoniker": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\Database\\db.cs",
+              "RelativeDocumentMoniker": "DesignPattern\\Database\\db.cs",
+              "ToolTip": "E:\\Acm\\DesignPattern\\DotNetCore Project\\DesignPattern\\DesignPattern\\Database\\db.cs",
+              "RelativeToolTip": "DesignPattern\\Database\\db.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T06:58:20.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
